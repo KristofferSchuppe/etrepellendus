@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "name": "etrepellendus",
+  "description": "A simple js wrapper for the Openstack APIs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KristofferSchuppe/etrepellendus.git"
+  },
+  "dependencies": {
+    "request": "~2"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.9"
+  },
+  "main": "./index.js",
+  "author": "LeathaMurazik"
+}
